@@ -2,7 +2,7 @@
 
 ### About
 
-Airline is an application where users can book flight tickets as the name suggests. It offers a variety of famous Indian airlines which had been added to the database. One can select the date for booking, along with the origin and destination and can filter the available options.
+Airline Reservation is an application where users can book flight tickets as the name suggests. It offers a variety of famous Indian airlines which had been added to the database. One can select the date for booking, along with the origin and destination and can filter the available options.
 
 ## Flow
 
