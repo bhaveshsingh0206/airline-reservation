@@ -6,11 +6,11 @@ Airline Reservation is an application where users can book flight tickets as the
 
 ## Flow
 
-User has to login to the system
-Select a date and then enter the origin and destination
-A list of flights will be filtered and then the user can select their pick
-On the payment portal one has to enter their card details for payment
-A boarding pass is generated at the end of the session after a successful payment
+- User has to login to the system
+- Select a date and then enter the origin and destination
+- A list of flights will be filtered and then the user can select their pick
+- On the payment portal one has to enter their card details for payment
+- A boarding pass is generated at the end of the session after a successful payment
 
 ### Technology Stack
 
