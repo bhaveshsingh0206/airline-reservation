@@ -25,7 +25,7 @@ A boarding pass is generated at the end of the session after a successful paymen
 ### Login/Registration
 
 ![1](images/1.png)
-![3](images/3.png)
+![3](images/2.png)
 
 ### Dashbaord
 
